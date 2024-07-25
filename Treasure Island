@@ -31,7 +31,7 @@ if lower=="left":
         b=input("which door do you want to follow? Red, Yellow, Blue? ")
         b=b.lower()
         if b=="yellow":
-            print("you win!")
+            print("You found the treasure, You Win!")
         elif b=="red":
             print("Burned by fire, Game over!")
         elif b=="blue":
